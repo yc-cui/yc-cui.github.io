@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About Me"
-# excerpt: "Shiyu Hu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,14 +13,12 @@ redirect_from:
 <span class='anchor' id='news'></span>
 {% include_relative includes/news.md %}
 
-<span class='anchor' id='experiences'></span>
-{% include_relative includes/experiences.md %}
-
-<span class='anchor' id='educations'></span>
-{% include_relative includes/educations.md %}
 
 <span class='anchor' id='research-interests'></span>
 {% include_relative includes/interests.md %}
+
+<span class='anchor' id='educations'></span>
+{% include_relative includes/educations.md %}
 
 <span class='anchor' id='publications'></span>
 {% include_relative includes/publications.md %}
@@ -35,18 +32,22 @@ redirect_from:
 <span class='anchor' id='activities-and-services'></span>
 {% include_relative includes/activity.md %}
 
-<span class='anchor' id='cv'></span>
-{% include_relative includes/cv.md %}
+<span class='anchor' id='contact'></span>
+{% include_relative includes/contact.md %}
 
 
-<a href='https://clustrmaps.com/site/1bzca'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=0e1633&w=a&t=tt&d=mtH-Pr0d3swe2WdQUTQVBf8Lz4RgVr7NC04XYL59i_Y&co=0b4975&ct=cdd4d9'/></a>
+<center>
+<div style="width: 320px; margin-top: 50px; margin-bottom: 50px">
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rG38oPH9Ncj0sE5pJKEaNZbRZ115D1z53YHnDyFqTMU'></script>
+</div>
 
-My homepage visitors recorded from April 18th, 2024. Thanks for attention.
+Thanks for attention.
+</center>
 
 <p>
   <center>
     <font>
-        <br>&copy; Shiyu Hu | Last updated: 2024-12
+        <br>&copy; Yongchuan Cui | Last updated: 04/2025
     </font>
   </center>
 </p>

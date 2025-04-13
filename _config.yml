@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shiyu Hu"
+title                    : "Yongchuan Cui"
 title_separator          : "-"
-name                     : &name "Shiyu Hu"
+name                     : &name "Yongchuan Cui"
 description              : &description "personal description"
-url                      : https://huuuuusy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yc-cui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huuuuusy/huuuuusy.github.io"
+repository               : "yc-cui/yc-cui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shiyu Hu"
+  name             : "Yongchuan Cui"
   avatar           : "profile.jpg"
-  bio              : "I am a Research Fellow at Nanyang Technological University (NTU). If you are interested in my research or would like to collaborate, please do not hesitate to contact me."
-  location         : "Singapore"
+  bio              : Remote Sensing, Low-level Vision, AI4EO, Image Fusion, Foundation Models
+  location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=49W-Rx4AAAAJ"
-  email            : "shiyu.hu@ntu.edu.sg"
-  researchgate     : "https://www.researchgate.net/profile/Shiyu-Hu-8"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=dRK8mV0AAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "cugcuiyc@cug.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huuuuusy"
+  github           : "yc-cui"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "hushiyu1995/?locale=en_US"
-  orcid            : "https://orcid.org/0000-0002-5872-7566"
+  linkedin         : 
+  orcid            : "https://orcid.org/0009-0002-5179-6232"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  zhihu            : "https://www.zhihu.com/people/hushiyu1995"
+  zhihu            :  
   aminer           : 
   wikipedia        :
 

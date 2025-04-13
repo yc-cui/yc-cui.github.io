@@ -1,1 +1,1 @@
-My Homepage, which has been updating since 2024 when I finished my Ph.D. study at Institute of Automation, Chinese Academy of Sciences (CASIA).
+bundle exec jekyll serve  --livereload

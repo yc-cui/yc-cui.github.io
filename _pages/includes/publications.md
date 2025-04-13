@@ -1,451 +1,169 @@
 # 📝 Publications
 
-<!-- ## Paper Summary
-
-### Journal
-
-- **TPAMI**: IEEE Transactions on Pattern Analysis and Machine Intelligence (CCF-A Journal, Top-1 journal in computer vision, IF=20.8). ***<font color=DarkRed>Acceptance×1 (first author×1)</font>***
-- **IJCV**: International Journal of Computer Vision (CCF-A Journal, Top-2 journal in computer vision, IF=11.6). ***<font color=DarkRed>Acceptance×2 (first author×1, corresponding-author×1)</font>***
-- **TCSVT**: IEEE Transactions on Circuits and Systems for Video Technology (CCF-B Journal, IF=8.3). ***<font color=DarkRed>Acceptance×1, under review×1</font>***
-- **JIG**: Journal of Images and Graphics (《中国图象图形学报》, CCF-B Chinese Journal). ***<font color=DarkRed>Acceptance×1 (first author×1)</font>***
-- **JOG**: Journal of Graphics (《图学学报》, CCF-C Chinese Journal). ***<font color=DarkRed>Acceptance×1</font>***
-- **Neu**: Neurocomputing (CCF-C Journal, IF=5.5). ***<font color=DarkRed>Acceptance×1</font>***
-- **CMHJ**: Chinese Mental Health Journal (《中国心理卫生杂志》, CSSCI Journal, Top Psychological Journal in China) ***<font color=DarkRed>Acceptance×1</font>***
-- **APS**: Acta Psychologica Sinica (《心理学报》, CSSCI Journal, Top-1 Psychological Journal in China). ***<font color=DarkRed>Under review×1</font>***
-
-### Conference
-
-- **NeurIPS**: Conference on Neural Information Processing Systems (CCF-A Conference). ***<font color=DarkRed>Acceptance×3 (first author×1)</font>***
-- **ICLR**: International Conference on Learning Representations (CAAI-A Conference). ***<font color=DarkRed>Under review×3 (first author×2)</font>***
-- **AAAI**: Annual AAAI Conference on Artificial Intelligence (CCF-A Conference). ***<font color=DarkRed>Under review×1</font>***
-- **NeurIPSW**: Workshop in Conference on Neural Information Processing Systems (CCF-A Conference workshop). ***<font color=DarkRed>Under review×1</font>***
-- **CVPRW**: Workshop in IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A Conference workshop). ***<font color=DarkRed>Acceptance×1 (oral & best paper honorable mention×1)</font>***
-- **ICASSP**: IEEE International Conference on Acoustics, Speech, and Signal Processing (CCF-B Conference). ***<font color=DarkRed>Acceptance×1, under review×1</font>***
-- **PRCV**: Chinese Conference on Pattern Recognition and Computer Vision (CCF-C Conference). ***<font color=DarkRed>Acceptance×2</font>***
-- **CSAI**: International Conference on Computer Science and Artificial Intelligence (EI Conference). ***<font color=DarkRed>Acceptance×1 (oral×1)</font>*** -->
-
 
 ## Acceptance
 
-<!-- 前5篇代表作按照固定顺序排列 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='../../images/GIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS J P&RS 2025</div><img src='../../images/ISPRS-PreMix.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='GIT'></span>
+<span class='anchor' id='ISPRS-PreMix'></span>
 
-**Global Instance Tracking: Locating Target More Like Humans**<br>
-***<font color=DarkRed>Shiyu Hu</font>***, [X. Zhao](https://www.xinzhaoai.com/), [L. Huang](https://github.com/huanglianghua), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)<br>
-*[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (CCF-A Journal)*<br>
-📌 Visual Object Tracking 📌 Large-scale Benchmark Construction 📌 Intelligent Evaluation Technology <br>
-[📃 Paper](https://ieeexplore.ieee.org/document/9720246/)
-[🗒 bibTex](https://huuuuusy.github.io/files/GIT.bib)
-[📑 PDF](https://huuuuusy.github.io/files/GIT.pdf)
-[🪧 Poster](https://huuuuusy.github.io/files/VALSE24Poster-364.pdf)
-[🌐 Platform](http://videocube.aitestunion.com/)
-[🔧 Toolkit](https://github.com/huuuuusy/videocube-toolkit) 
-[💾 Dataset](http://videocube.aitestunion.com/downloads)
+**Pansharpening via Predictive Filtering with Element-wise Feature Mixing**<br>
+***<font color=DarkRed>Yongchuan Cui</font>***, Peng Liu<sup>†</sup>, Yan Ma, Lajiao Chen, Mengzhen Xu, Xingyan Guo<br>
+*[ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (IF 10.6)*<br>
+📌 Image Fusion 📌 Pansharpening 📌 Low-level Vision <br>
+[📖 Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271624004064)
+[🗒 BibTex](https://yc-cui.github.io/files/ISPRS-PreMix.bib)
+[💾 PDF](https://yc-cui.github.io/files/ISPRS-PreMix.pdf)
+[💻 Code](https://github.com/yc-cui/PreMix)
+
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='../../images/SOTVerse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2025</div><img src='../../images/IEEE-IGARSS-Super-AD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='SOTVerse'></span>
+<span class='anchor' id='IGARSS-Super-AD'></span>
 
-**SOTVerse: A User-defined Task Space of Single Object Tracking**<br>
-***<font color=DarkRed>Shiyu Hu</font>***, [X. Zhao](https://www.xinzhaoai.com/), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)<br>
-*[International Journal of Computer Vision](https://www.springer.com/journal/11263) (CCF-A Journal)*<br>
-📌 Visual Object Tracking 📌 Dynamic Open Environment Construction 📌 3E Paradigm<br>
-[📃 Paper](https://link.springer.com/article/10.1007/s11263-023-01908-5)
-[🗒 bibTex](https://huuuuusy.github.io/files/SOTVerse.bib)
-[📑 PDF](https://huuuuusy.github.io/files/SOTVerse.pdf)
-[🌐 Platform](http://metaverse.aitestunion.com/) 
+**Rethinking Identity Mapping in Self-Supervised Hyperspectral Anomaly Detection: A Unified Perspective on Network Optimization**<br>
+***<font color=DarkRed>Yongchuan Cui</font>***, Jinhe Zhang, Peng Liu<sup>†</sup>, Yan Ma, Yi Zeng<br>
+*[The 45th IEEE International Geoscience and Remote Sensing Symposium, 2025](https://2025.ieeeigarss.org/)*<br>
+📌 Hyperspectral Anomaly Detection 📌 Self-supervised Learning<br>
+[💾 PDF](https://yc-cui.github.io/files/IGARSS-Super-AD.pdf)
+[💻 Code](https://github.com/yc-cui/Super-AD)
+
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2024</div><img src='../../images/BioDrone.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS 2024</div><img src='../../images/IEEE-TGRS-PEMAE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='BioDrone'></span>
+<span class='anchor' id='TGRS-PEMAE'></span>
 
-**BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision**<br>
-[X. Zhao](https://www.xinzhaoai.com/), ***<font color=DarkRed>Shiyu Hu✉️</font>***, [Y. Wang](https://github.com/updateforever), J. Zhang, Y. Hu, R. Liu, [H. Lin](https://www3.cs.stonybrook.edu/~hling/), [Y. Li](https://www.biostat.wisc.edu/~yli/), R. Li, K. Liu, [J. Li](http://yjsb.sinano.ac.cn/Doctor/info.aspx?itemid=920) <br>
-*[International Journal of Computer Vision](https://www.springer.com/journal/11263) (CCF-A Journal)*<br>
-📌 Visual Object Tracking 📌 Drone-based Tracking 📌 Visual Robustness<br>
-[📃 Paper](https://link.springer.com/article/10.1007/s11263-023-01937-0)
-[🌐 Platform](http://biodrone.aitestunion.com/) 
-[🗒 bibTex](https://huuuuusy.github.io/files/BioDrone.bib) 
-[📑 PDF](https://huuuuusy.github.io/files/BioDrone.pdf)
-[🔧 Toolkit](https://github.com/huuuuusy/biodrone-toolkit-official) 
-[💾 Dataset](http://biodrone.aitestunion.com/downloads) 
+**Pixel-wise Ensembled Masked Autoencoder for Multispectral Pansharpening**<br>
+***<font color=DarkRed>Yongchuan Cui</font>***, Peng Liu<sup>†</sup>, Yan Ma, Lajiao Chen, Mengzhen Xu, Xingyan Guo <br>
+*[IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) (IF 7.5)*<br>
+📌 Image Fusion 📌 Pansharpening 📌 Generalization <br>
+[📖 Paper](https://ieeexplore.ieee.org/document/10649657)
+[🗒 BibTex](https://yc-cui.github.io/files/IEEE-TGRS-PEMAE.bib)
+[💾 PDF](https://yc-cui.github.io/files/IEEE-TGRS-PEMAE.pdf)
+[💻 Code](https://github.com/yc-cui/PEMAE)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='../../images/MGIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSL 2024</div><img src='../../images/IEEE-GRSL-Extend-GAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='MGIT'></span>
+<span class='anchor' id='GRSL-Extend-GAN'></span>
 
-**A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and causal Relationship**<br>
-***<font color=DarkRed>Shiyu Hu</font>***, [D. Zhang](https://zhangdailing8.github.io/), [M. Wu](https://wmeiqi.github.io/), [X. Feng](https://xiaokunfeng.github.io/), [X. Li](https://xuchen-li.github.io/), [X. Zhao](https://www.xinzhaoai.com/), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)<br>
-*[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023) (CCF-A Conference, Poster)*<br>
-📌 Visual Language Tracking 📌 Long Video Understanding and Reasoning 📌 Hierarchical Semantic Information Annotation<br>
-[📃 Paper](https://proceedings.nips.cc/paper_files/paper/2023/hash/4ea14e6090343523ddcd5d3ca449695f-Abstract-Datasets_and_Benchmarks.html) 
-[🗒 bibTex](https://huuuuusy.github.io/files/MGIT.bib)
-[📃 PDF](https://huuuuusy.github.io/files/MGIT.pdf)
-[🪧 Poster](https://huuuuusy.github.io/files/MGIT-poster.pdf)
-[📹 Slides](https://huuuuusy.github.io/files/MGIT-Slides.pdf)
-[🌐 Platform](http://videocube.aitestunion.com/)
-[🔧 Toolkit](https://github.com/huuuuusy/videocube-toolkit) 
-[💾 Dataset](http://videocube.aitestunion.com/downloads)
+**Reconstruction of Large-Scale Missing Data in Remote Sensing Images Using Extend-GAN**<br>
+***<font color=DarkRed>Yongchuan Cui</font>***, Peng Liu<sup>†</sup>, Bingze Song, Lingjun Zhao, Yan Ma, Lajiao Chen <br>
+*[IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859) (IF 4.0)*<br>
+📌 Generative Adversarial Networks 📌 Image Restoration <br>
+[📖 Paper](https://ieeexplore.ieee.org/document/10413911)
+[🗒 BibTex](https://yc-cui.github.io/files/IEEE-GRSL-Extend-GAN.bib)
+[💾 PDF](https://yc-cui.github.io/files/IEEE-GRSL-Extend-GAN.pdf)
+[💻 Code](https://github.com/yc-cui/Extend-GAN)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国图象图形学报 2023</div><img src='../../images/Survey23.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-STARS 2024</div><img src='../../images/IEEE-JSTARS-SDCS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='JIG-survey'></span>
+<span class='anchor' id='JSTARS-SDCS'></span>
 
-**Visual Intelligence Evaluation Techniques for Single Object Tracking: A Survey (单目标跟踪中的视觉智能评估技术综述)**<br>
-***<font color=DarkRed>Shiyu Hu</font>***, [X. Zhao](https://www.xinzhaoai.com/), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)<br>
-*[Journal of Images and Graphics](http://www.cjig.cn/jig/ch/index.aspx) (《中国图象图形学报》, CCF-B Chinese Journal)*<br>
-📌 Visual Object Tracking 📌 Intelligent Evaluation Technique 📌 AI4Science<br>
-[📃 Paper](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?flag=2&file_no=202307100000002&journal_id=jig) 
-[📑 PDF](https://huuuuusy.github.io/files/JIG-survey.pdf) 
+**Semiblind Compressed Sensing: A Bidirectional-Driven Method for Spatiotemporal Fusion of Remote Sensing Images**<br>
+Peng Liu, Lizhe Wang<sup>†</sup>, Jia Chen, ***<font color=DarkRed>Yongchuan Cui</font>***<br>
+*[IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443) (IF 4.7)*<br>
+📌 Spatiotemporal Fusion 📌 Intelligent Evaluation Technique 📌 AI4Science<br>
+[📖 Paper](https://ieeexplore.ieee.org/abstract/document/10696963)
+[🗒 BibTex](https://yc-cui.github.io/files/IEEE-JSTARS-SDCS.bib)
+[💾 PDF](https://yc-cui.github.io/files/IEEE-JSTARS-SDCS.pdf)
+[💻 Code](https://github.com/yc-cui/SDCS/)
 
 </div>
 </div>
 
-<!-- 合作论文按时间顺序排列 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../../images/CPDTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box-last'><div class='paper-box-image'><div><div class="badge">IGARSS 2025</div><img src='../../images/IEEE-IGARSS-PIFNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='CPDTrack'></span>
+<span class='anchor' id='IGARSS-PIFNet'></span>
 
-**Beyond Accuracy: Tracking more like Human via Visual Search**<br>
-[D. Zhang](https://zhangdailing8.github.io/), ***<font color=DarkRed>Shiyu Hu</font>***, [X. Feng](https://xiaokunfeng.github.io/), [X. Li](https://xuchen-li.github.io/), [M. Wu](https://wmeiqi.github.io/), J. Zhang, [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)  <br>
-*[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024) (CCF-A Conference, Poster)*<br>
-📌  Visual Object Tracking 📌 Visual Search Mechanism 📌 Visual Turing Test<br>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../../images/MemVLT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='MemVLT'></span>
-
-**MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts**<br>
-[X. Feng](https://xiaokunfeng.github.io/), [X. Li](https://xuchen-li.github.io/), ***<font color=DarkRed>Shiyu Hu</font>***, [D. Zhang](https://zhangdailing8.github.io/), [M. Wu](https://wmeiqi.github.io/), J. Zhang, [X. Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)  <br>
-*[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024) (CCF-A Conference, Poster)*<br>
-📌 Visual Language Tracking 📌 Human-like Memory Modeling 📌 Adaptive Prompts<br>
+**Prior-based Three-stage Unsupervised Invertible Neural Network for Hyperspectral and Multispectral Image Fusion**<br>
+Mengnan Jin, Wenjuan Zhang<sup>†</sup>, ***<font color=DarkRed>Yongchuan Cui</font>***, Jie Pan, Dailiang Peng<br>
+*[The 45th IEEE International Geoscience and Remote Sensing Symposium, 2025](https://2025.ieeeigarss.org/)*<br>
+📌 Image Fusion 📌 Unsupervised Learning 📌 Hyperspectral Image Processing<br>
+[💾 PDF](https://yc-cui.github.io/files/IGARSS-PIFNet.pdf)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='../../images/AWCV.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='AWCV'></span>
-
-**Finger in Camera Speaks Everything: Unconstrained Air-Writing for Real-World**<br>
-[M. Wu](https://wmeiqi.github.io/), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi), [Y. Cai](https://teacher.bupt.edu.cn/caiyuanqiang/zh_CN/index.htm), ***<font color=DarkRed>Shiyu Hu</font>***, [Y. Zhao](https://callsys.github.io/zhaoyuzhong.github.io-main/), [W. Wang](https://people.ucas.ac.cn/~wqwang?language=en) <br>
-*[IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (CCF-B Journal)*<br>
-📌 Air-writing Technique 📌 Benchmark Construction 📌 Human-machine Interaction<br>
-[📃 Paper](https://ieeexplore.ieee.org/document/10496279) 
-[🗒 bibTex](https://huuuuusy.github.io/files/AWCV100k.bib)
-[📃 PDF](https://huuuuusy.github.io/files/AWCV100k.pdf)
-[🔧 Toolkit](https://github.com/wmeiqi/AWCV) 
-</div>
+<div>
+<sup>†</sup>: Corresponding author.
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='../../images/DTLLM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='DTLLM'></span>
-
-**Diverse Text Generation for Visual Language Tracking Based on LLM**<br>
-[X. Li](https://xuchen-li.github.io/), [X. Feng](https://xiaokunfeng.github.io/), ***<font color=DarkRed>Shiyu Hu</font>***, [M. Wu](https://wmeiqi.github.io/), [D. Zhang](https://zhangdailing8.github.io/), J. Zhang, [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)<br>
-*[the 3rd Workshop on Vision Datasets Understanding and DataCV Challenge in CVPR 2024](https://sites.google.com/view/vdu-cvpr24/) (Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention)*<br>
-📌 Visual Language Tracking 📌 Large Language Model 📌 Evaluation Technique<br>
-[📃 Paper](https://arxiv.org/abs/2405.12139) 
-[🗒 bibTex](https://huuuuusy.github.io/files/DTLLM-VLT.bib)
-[📃 PDF](https://huuuuusy.github.io/files/DTLLM-VLT.pdf)
-[🪧 Poster](https://xuchen-li.github.io/files/DTLLM-poster.pdf)
-[📹 Slides](https://xuchen-li.github.io/files/DTLLM-Slides.pdf)
-[🌐 Platform](http://videocube.aitestunion.com/)
-[🔧 Toolkit](https://github.com/Xuchen-Li/DTLLM-VLT) 
-[💾 Dataset](http://videocube.aitestunion.com/downloads)
-[🏆 Award](https://huuuuusy.github.io/files/DTLLM-VLT-Award.pdf)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='../../images/ICASSP24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='ICASSP24'></span>
-
-**Robust Single-particle Cryo-EM Image Denoising and Restoration**<br>
-J. Zhang, T. Zhao, ***<font color=DarkRed>Shiyu Hu</font>***, [X. Zhao](https://www.xinzhaoai.com/)<br>
-*[the 49th IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2024.ieeeicassp.org/) (CCF-B Conference, Poster)*<br>
-📌 Medical Image Processing 📌 AI4Science 📌 Diffusion Model<br>
-[📃 Paper](https://ieeexplore.ieee.org/abstract/document/10447135) 
-[🗒 bibTex](https://huuuuusy.github.io/files/ICASSP24.bib)
-[📑 PDF](https://huuuuusy.github.io/files/ICASSP24.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='../../images/VSLLM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='VSLLM'></span>
-
-**VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**<br>
-[M. Wu](https://wmeiqi.github.io/), Y. Kang, [X. Li](https://xuchen-li.github.io/), ***<font color=DarkRed>Shiyu Hu</font>***, [X. Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), Y. kang, [W. Wang](https://people.ucas.ac.cn/~wqwang?language=en), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi) <br>
-*[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn) (CCF-C Conference)*<br>
-📌 Psychological Assessment System 📌 Gamified Assessment 📌 AI4Science<br>
-[📃 Paper](https://link.springer.com/chapter/10.1007/978-981-97-8692-3_17) 
-[🗒 bibTex](https://huuuuusy.github.io/files/VSLLM.bib)
-[📃 PDF](https://huuuuusy.github.io/files/VSLLM.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国心理卫生杂志 2024</div><img src='../../images/IGBA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='IGBA'></span>
-
-**A Review of Intelligent Psychological Assessment Based on Interactive Environment (基于交互环境的智能化心理测评)**<br>
-[K. Huang](https://people.ucas.ac.cn/~huangkaiqi), Y. Kang, C. Yan, ***<font color=DarkRed>Shiyu Hu</font>***, [L. Wang](https://people.ucas.ac.cn/~wanglg), [T. Tao](https://people.ucas.ac.cn/~0072960), [W. Gao](https://people.ucas.ac.cn/~0000893) <br>
-*[Chinese Mental Health Journal](http://xlwszz.tgcssci.com/) (《中国心理卫生杂志》, CSSCI Journal, Top Psychological Journal in China)*<br>
-📌 Psychological Assessment System 📌 Gamified Assessment 📌 AI4Science<br>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2023</div><img src='../../images/PRCV23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='PRCV23'></span>
-
-**A Hierarchical Theme Recognition Model for Sandplay Therapy**<br>
-[X. Feng](https://xiaokunfeng.github.io/), ***<font color=DarkRed>Shiyu Hu</font>***, [X. Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)<br>
-*[the 6th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv2023.cn/2023prcv) (CCF-C Conference, Poster)*<br>
-📌 Psychological Assessment System 📌 Gamified Assessment 📌 AI4Science<br>
-[📃 Paper](https://link.springer.com/chapter/10.1007/978-981-99-8462-6_20) 
-[🗒 bibTex](https://huuuuusy.github.io/files/PRCV23.bib) 
-[📑 PDF](https://huuuuusy.github.io/files/PRCV23.pdf)
-[🔖 Supplementary](https://huuuuusy.github.io/files/PRCV23-Supp.pdf)
-[🪧 Poster](https://huuuuusy.github.io/files/PRCV23-poster.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSAI 2023</div><img src='../../images/CSAI23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='CSAI23'></span>
-
-**Rethinking Similar Object Interference in Single Object Tracking**<br>
-[Y. Wang](https://github.com/updateforever), ***<font color=DarkRed>Shiyu Hu</font>***, [X. Zhao](https://www.xinzhaoai.com/)<br>
-*[the 7th International Conference on Computer Science and Artificial Intelligence](http://www.csai.org/) (EI Conference, **Oral**)*<br>
-📌 Visual Object Tracking 📌 Similar Object Interference 📌 Data Mining<br>
-[📃 Paper](https://dl.acm.org/doi/abs/10.1145/3638584.3638644) 
-[🗒 bibTex](https://huuuuusy.github.io/files/CSAI23.bib) 
-[📑 PDF](https://huuuuusy.github.io/files/CSAI23.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2022</div><img src='../../images/Neu22.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='Neu22'></span>
-
-**Revisiting Instance Search: A New Benchmark Using Cycle Self-training**<br>
-[Y. Zhang](https://wesleyzhang1991.github.io/), [C. Liu](https://scholar.google.com/citations?user=atOfOgMAAAAJ&hl=zh-CN&oi=sra), [W. Chen](https://scholar.google.com/citations?user=KWVlYaMAAAAJ&hl=zh-CN&oi=sra), [X. Xu](https://scholar.google.com/citations?user=nJc6BvgAAAAJ&hl=zh-CN&oi=sra), [F. Wang](https://scholar.google.com/citations?user=WCRGTHsAAAAJ), [H. Li](https://scholar.google.com/citations?user=pHN-QIwAAAAJ&hl=zh-CN&oi=sra), ***<font color=DarkRed>Shiyu Hu</font>***, [X. Zhao](https://www.xinzhaoai.com/)<br>
-*[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)  (CCF-C Journal)*<br>
-📌 Video Instance Search 📌 Benchmark Construction  📌 Data Mining<br>
-[📃 Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222007445) 
-[🗒 bibTex](https://huuuuusy.github.io/files/Neu22.bib) 
-[📑 PDF](https://huuuuusy.github.io/files/Neu22.pdf) 
-[🌐 Project](https://github.com/Instance-Search/) 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">图学学报 2021</div><img src='../../images/VTT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='VTT'></span>
-
-**Visual Turing: The Next Development of Computer Vision in The View of Human-computer Gaming (视觉图灵：从人机对抗看计算机视觉下一步发展)**<br>
-[K. Huang](https://people.ucas.ac.cn/~huangkaiqi), [X. Zhao](https://www.xinzhaoai.com/), [Q. Li](https://scholar.google.com/citations?user=7xmxBagAAAAJ), ***<font color=DarkRed>Shiyu Hu</font>***<br>
-*[Journal of Graphics](http://www.txxb.com.cn/CN/2095-302X/home.shtml) (《图学学报》, CCF-C Chinese Journal)*<br>
-📌 Visual Object Tracking 📌 Intelligent Evaluation Technique  📌 AI4Science<br>
-[📃 Paper](http://www.txxb.com.cn/CN/10.11996/JG.j.2095-302X.2021030339) 
-[🗒 bibTex](https://huuuuusy.github.io/files/VTT.bib) 
-[📑 PDF](https://huuuuusy.github.io/files/VTT.pdf)
-
-</div>
-</div>
-
-
-## Preprint
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='../../images/FIOVA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='FIOVA'></span>
-
-**Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison**<br>
-***<font color=DarkRed>Shiyu Hu</font>***\*, [X. Li\*](https://xuchen-li.github.io/), [X. Li](https://xuzhaoli.github.io/), J. Zhang, [Y. Wang](https://github.com/updateforever), [X. Zhao](https://www.xinzhaoai.com/), [K. Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319) (*Equal Contributions)<br>
-Submitted to a CAAI-A conference, under review<br>
-📌 Large Vision-Language Models 📌 Evaluation Technique 📌 Visual Turing<br>
-[📃 Paper](https://arxiv.org/abs/2410.15270) 
-[🗒 bibTex](https://huuuuusy.github.io/files/FIOVA.bib) 
-[📑 PDF](https://arxiv.org/pdf/2410.15270) 
-[🌐 Project](https://huuuuusy.github.io/fiova/) 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='../../images/SOE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='SOE'></span>
-
-**Students Rather Than Experts: A New AI for Education Pipeline to Model More Human-like and Personalised Early Adolescences**<br>
-Y. Ma\*, ***<font color=DarkRed>Shiyu Hu</font>***\*, [X. Li](https://xuchen-li.github.io/), [Y. Wang](https://github.com/updateforever), [S. Liu](https://faculty.ecnu.edu.cn/_s8/lsq/main.psp), [K. Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319)  (*Equal Contributions) <br> 
-Submitted to a CAAI-A conference, under review<br>
-📌 AI4Education 📌 LLMs 📌 LLM-based Agent<br>
-[📃 Paper](https://arxiv.org/abs/2410.15701) 
-[🗒 bibTex](https://huuuuusy.github.io/files/SOE.bib) 
-[📑 PDF](https://arxiv.org/pdf/2410.15701) 
-[🌐 Project](https://marsgemini.github.io/SOE-LVSA/) 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='../../images/DTVLT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='DTVLT'></span>
-
-**DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**<br>
-[X. Li](https://xuchen-li.github.io/), ***<font color=DarkRed>Shiyu Hu</font>***, [X. Feng](https://xiaokunfeng.github.io/), [D. Zhang](https://zhangdailing8.github.io/), [M. Wu](https://wmeiqi.github.io/), J. Zhang, [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)<br>
-Submitted to a CAAI-A conference, under review<br>
-📌 Visual Language Tracking 📌 Large Language Model 📌 Evaluation Technique<br>
-[📃 Paper](https://arxiv.org/abs/2410.02492) 
-[🗒 bibTex](https://huuuuusy.github.io/files/DTVLT.bib) 
-[📑 PDF](https://arxiv.org/pdf/2410.02492) 
-[🌐 Project](http://videocube.aitestunion.com/) 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='../../images/VLT-MI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='VLT-MI'></span>
-
-**Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**<br>
-[X. Li](https://xuchen-li.github.io/),  ***<font color=DarkRed>Shiyu Hu</font>***, [X. Feng](https://xiaokunfeng.github.io/), [D. Zhang](https://zhangdailing8.github.io/), [M. Wu](https://wmeiqi.github.io/), J. Zhang, [K. Huang](https://people.ucas.ac.cn/~huangkaiqi) <br>
-Submitted to a workshop in CCF-A conference, under review<br>
-📌 Visual Language Tracking 📌 Multi-modal Interaction 📌 Evaluation Technology<br>
-[📃 Paper](https://arxiv.org/abs/2409.08887) 
-[🗒 bibTex](https://huuuuusy.github.io/files/VLT-MI.bib) 
-[📑 PDF](https://arxiv.org/pdf/2409.08887) 
-[🌐 Project](http://videocube.aitestunion.com/) 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-preprint">Preprint</div><img src='../../images/VTT-ICLR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='VTT-ICLR'></span>
-
-**Nearing or Surpassing: Overall Evaluation of Human-Machine Dynamic Vision Ability**<br>
-***<font color=DarkRed>Shiyu Hu</font>***, [X. Zhao](https://www.xinzhaoai.com/), [Y. Wang](https://github.com/updateforever), [Y. Shan](https://scholar.google.com/citations?user=_nc83HsAAAAJ), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi) <br>
-📌 Visual Object Tracking 📌 Intelligent Evaluation Technique 📌 AI4Science<br>
-[📑 PDF](https://huuuuusy.github.io/files/VTT-ICLR.pdf)
-[🗒 bibTex](https://huuuuusy.github.io/files/VTT-ICLR.bib) 
-</div>
-</div>
 
 ## Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">TCSVT 2024</div><img src='../../images/SOI.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">Under Review</div><img src='../../images/IEEE-TGRS-Super-AD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='SOI'></span>
+<span class='anchor' id='TGRS-Super-AD'></span>
 
-**Target or Distractor? Rethinking Similar Object Interference in Single Object Tracking**<br>
-[Y. Wang](https://github.com/updateforever), ***<font color=DarkRed>Shiyu Hu</font>***, [D. Zhang](https://zhangdailing8.github.io/), [M. Wu](https://wmeiqi.github.io/), [T. Yao](http://tingyao.deepfun.club/), [Y. Wang](https://scholar.google.com/citations?user=3nMDEBYAAAAJ), [L. Chen](https://sie.bit.edu.cn/szdw/jsml/ldjsyjsj/zgzcl/06c26b3ebaae4db981aaa388c660c8b5.htm), [X. Zhao](https://www.xinzhaoai.com/) <br>
-*[IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (CCF-B Journal, Under Review)*<br>
-📌 Visual Object Tracking 📌 Similar Object Interference 📌 Data Mining<br>
+**Overcoming the Identity Mapping Problem in Self-Supervised Hyperspectral Anomaly Detection**<br>
+***<font color=DarkRed>Yongchuan Cui</font>***, Jinhe Zhang, Peng Liu<sup>†</sup>, Yan Ma, Yi Zeng<br>
+Under Review in *[IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) (IF 7.5)*<br>
+📌 Self-Supervised Learning 📌 Hyperspectral Anomaly Detection 📌 Identity Mapping <br>
+[💻 Repo](https://github.com/yc-cui/Super-AD)
+[🔊 arXiv](https://arxiv.org/abs/2504.04115)
+
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">CCF-A 2024</div><img src='../../images/ATCTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">Under Review</div><img src='../../images/Surv-STF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='ATCTrack'></span>
+<span class='anchor' id='IF-Surv-STF'></span>
 
-**ATCTrack: Leveraging Aligned Target-Context Cues for Robust Vision-Language Tracking**<br>
-[X. Feng](https://xiaokunfeng.github.io/), ***<font color=DarkRed>Shiyu Hu</font>***, [X. Li](https://xuchen-li.github.io/), [D. Zhang](https://zhangdailing8.github.io/), [M. Wu](https://wmeiqi.github.io/), J. Zhang, [X. Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)<br>
-Submitted to a CCF-A conference, under review<br>
-📌 Visual Language Tracking 📌 Multi-modal Alignment 📌 Feature Awareness<br>
+**A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities**<br>
+Enzhe Sun, ***<font color=DarkRed>Yongchuan Cui</font>***, Peng Liu<sup>†</sup>, Jining Yan<sup>†</sup><br>
+Under Review in *[Information-Fusion](https://www.sciencedirect.com/journal/information-fusion) (IF 14.8)*<br>
+📌 Spatiotemporal Fusion 📌 Model Survey <br>
+[💻 Repo](https://github.com/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey)
+[🔊 arXiv](https://arxiv.org/abs/2504.00901)
+
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">CCF-A 2024</div><img src='../../images/MMAW.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box paper-box-last'><div class='paper-box-image'><div><div class="badge-under-review">Under Review</div><img src='../../images/TransMoE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='MMAW'></span>
+<span class='anchor' id='TIM-TransMoE'></span>
 
-**Unconstrained Multimodal Air-Writing Benchmark: Writing by Moving Your Fingers in 3D**<br>
-[M. Wu](https://wmeiqi.github.io/), [X. Li](https://xuchen-li.github.io/), ***<font color=DarkRed>Shiyu Hu</font>***, [Y. Cai](https://teacher.bupt.edu.cn/caiyuanqiang/zh_CN/index.htm), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi), [W. Wang](https://people.ucas.ac.cn/~wqwang?language=en) <br>
-Submitted to a CCF-A conference, under review<br>
-📌 Air-writing Technique 📌 Benchmark Construction 📌 Human-machine Interaction<br>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">CCF-B 2024</div><img src='../../images/ICASSP25.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='ICASSP25'></span>
-
-**Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**<br>
-[X. Feng](https://xiaokunfeng.github.io/), [D. Zhang](https://zhangdailing8.github.io/), ***<font color=DarkRed>Shiyu Hu</font>***, [X. Li](https://xuchen-li.github.io/),  [M. Wu](https://wmeiqi.github.io/), J. Zhang, [X. Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi) <br>
-Submitted to a CCF-B conference, under review<br>
-📌 Visual Language Tracking 📌 Multi-modal Learning 📌 Grounding Model<br>
+**Enhancing GNSS Positioning in Urban Environments: A Transformer-Based NLOS Detection and Adaptive Weighting Approach**<br>
+Weiwei Zhai, ***<font color=DarkRed>Yongchuan Cui</font>***, Liang Wang<sup>†</sup>, Ningbo Wang, Zishen Li, Peng Liu, Hang Zhong<br>
+Under Review in *[IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19) (IF 5.6)*<br>
+📌 Signal Classification 📌 Mixture-of-experts 📌 Transformer <br>
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-under-review">心理学报 2024</div><img src='../../images/Sandplay.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='Sandplay'></span>
-
-**Intelligent Psychological Assessment with Sandplay based on Evidence-Centered Design Theory (基于证据中心设计理论的智能心理沙盘测评系统)**<br>
-Y. Ren, [X. Feng](https://xiaokunfeng.github.io/), ***<font color=DarkRed>Shiyu Hu</font>***, Y. Kang, C. Yan, Y. Zeng, [L. Wang](https://people.ucas.ac.cn/~wanglg), [K. Huang](https://people.ucas.ac.cn/~huangkaiqi)  <br>
-*[Acta Psychologica Sinica](https://journal.psych.ac.cn/xlxb/CN/0439-755X/home.shtml) (《心理学报》, CSSCI Journal, Top-1 Psychological Journal in China, Under Review)*<br>
-📌 Psychological Assessment System 📌 Gamified Assessment 📌 AI4Science<br>
-
+<div>
+<sup>†</sup>: Corresponding author.
 </div>
-</div>
+
