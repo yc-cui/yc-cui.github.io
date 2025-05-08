@@ -1,5 +1,7 @@
 # 🔥 News
 
+**2025.05**: 🎉🎉 Receiving the Outstanding Graduate Student Scholarship (17 Recipients in Total), Spring, 2025.
+
 **2025.03**: 🎉🎉 Two [papers](https://yc-cui.github.io/#IGARSS-Super-AD) have been accepted by *IEEE International Geoscience and Remote Sensing Symposium, 2025*.
 
 

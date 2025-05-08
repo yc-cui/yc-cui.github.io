@@ -1,5 +1,6 @@
 # 🏆 Honors and Awards
 
+* 2025 **Outstanding Graduate Student Scholarship**
 
 * 2024 **Chinese National Scholarship** (国家奖学金, top 0.2%)
 
