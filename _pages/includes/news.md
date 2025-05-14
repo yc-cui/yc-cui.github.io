@@ -1,6 +1,6 @@
 # 🔥 News
 
-**2025.05**: 🎉🎉 Receiving the Outstanding Graduate Student Scholarship (17 Recipients in Total), Spring, 2025.
+**2025.05**: 🎉🎉 Receiving the Outstanding Graduate Student Scholarship (13 Recipients in Total), Spring, 2025. [link](https://aircas.ac.cn/kjrh/rhtzgg/202505/t20250514_7654034.html)
 
 **2025.03**: 🎉🎉 Two [papers](https://yc-cui.github.io/#IGARSS-Super-AD) have been accepted by *IEEE International Geoscience and Remote Sensing Symposium, 2025*.
 
@@ -8,10 +8,10 @@
 **2024.11**: 🎉🎉 One [paper](https://yc-cui.github.io/#ISPRS-PreMix) has been accepted by *ISPRS Journal of Photogrammetry and Remote Sensing*.
 
 
-**2024.11**: 🏆🏆 Obtain Chinese National Scholarship (**Top 0.2%**) (国家奖学金).
+**2024.11**: 🏆🏆 Obtain China National Scholarship (**Top 0.2%**) (国家奖学金). [link](https://aircas.ac.cn/kjrh/rhtzgg/202411/t20241121_7444148.html)
 
 
-**2024.10**: 📖📖 Attend the award ceremony at the 8th Space Information Networks Symposium held in Hangzhou, Zhejiang.
+**2024.10**: 📖📖 Attending the award ceremony at the 8th Space Information Networks Symposium held in Hangzhou, Zhejiang.
 
 
 **2024.10**: 🏆🏆 Obtain Third Prize, Rank **5/229**, NSFC Remote Sensing Image Intelligent Processing Algorithm Contest, Cloud Removal Track.

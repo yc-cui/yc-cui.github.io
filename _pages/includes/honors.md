@@ -1,8 +1,8 @@
 # 🏆 Honors and Awards
 
-* 2025 **Outstanding Graduate Student Scholarship**
+* 2025 **Outstanding Graduate Student Scholarship** (13 Recipients in Total)
 
-* 2024 **Chinese National Scholarship** (国家奖学金, top 0.2%)
+* 2024 **China National Scholarship** (国家奖学金, top 0.2%)
 
 * 2024 Third Prize, Rank **5/229**, NSFC Remote Sensing Image Intelligent Processing Algorithm Contest, Cloud Removal Track
 
