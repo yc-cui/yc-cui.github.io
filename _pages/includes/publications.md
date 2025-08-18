@@ -11,7 +11,7 @@
 
 **Pansharpening via Predictive Filtering with Element-wise Feature Mixing**<br>
 ***<font color=DarkRed>Yongchuan Cui</font>***, Peng Liu<sup>†</sup>, Yan Ma, Lajiao Chen, Mengzhen Xu, Xingyan Guo<br>
-*[ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (IF 10.6)*<br>
+*[ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (IF 12.2)*<br>
 📌 Image Fusion 📌 Pansharpening 📌 Low-level Vision <br>
 [📖 Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271624004064)
 [🗒 BibTex](https://yc-cui.github.io/files/ISPRS-PreMix.bib)
@@ -45,7 +45,7 @@
 
 **Pixel-wise Ensembled Masked Autoencoder for Multispectral Pansharpening**<br>
 ***<font color=DarkRed>Yongchuan Cui</font>***, Peng Liu<sup>†</sup>, Yan Ma, Lajiao Chen, Mengzhen Xu, Xingyan Guo <br>
-*[IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) (IF 7.5)*<br>
+*[IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) (IF 8.6)*<br>
 📌 Image Fusion 📌 Pansharpening 📌 Generalization <br>
 [📖 Paper](https://ieeexplore.ieee.org/document/10649657)
 [🗒 BibTex](https://yc-cui.github.io/files/IEEE-TGRS-PEMAE.bib)
@@ -62,7 +62,7 @@
 
 **Reconstruction of Large-Scale Missing Data in Remote Sensing Images Using Extend-GAN**<br>
 ***<font color=DarkRed>Yongchuan Cui</font>***, Peng Liu<sup>†</sup>, Bingze Song, Lingjun Zhao, Yan Ma, Lajiao Chen <br>
-*[IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859) (IF 4.0)*<br>
+*[IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859) (IF 4.4)*<br>
 📌 Generative Adversarial Networks 📌 Image Restoration <br>
 [📖 Paper](https://ieeexplore.ieee.org/document/10413911)
 [🗒 BibTex](https://yc-cui.github.io/files/IEEE-GRSL-Extend-GAN.bib)
@@ -72,6 +72,21 @@
 </div>
 </div>
 
+
+
+<div class='paper-box paper-box-last'><div class='paper-box-image'><div><div class="badge-under-review">IEEE IOTJ 2025</div><img src='../../images/TransMoE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='TIM-TransMoE'></span>
+
+**Enhancing GNSS Positioning in Urban Environments: A Transformer-Based NLOS Detection and Adaptive Weighting Approach**<br>
+Weiwei Zhai, ***<font color=DarkRed>Yongchuan Cui</font>***, Liang Wang<sup>†</sup>, Ningbo Wang, Zishen Li, Peng Liu, Hang Zhong<br>
+*[IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) (IF 8.9)*<br>
+📌 Signal Classification 📌 Mixture-of-experts 📌 Transformer <br>
+[📖 Paper](https://ieeexplore.ieee.org/abstract/document/11121908)
+
+</div>
+</div>
 
 
 <div class='paper-box paper-box'><div class='paper-box-image'><div><div class="badge">IEEE J-STARS 2024</div><img src='../../images/IEEE-JSTARS-SDCS.jpg' alt="sym" width="100%"></div></div>
@@ -105,6 +120,8 @@ Mengnan Jin, Wenjuan Zhang<sup>†</sup>, ***<font color=DarkRed>Yongchuan Cui</
 
 </div>
 </div>
+
+
 
 <div>
 <sup>†</sup>: Corresponding author.
@@ -149,18 +166,6 @@ Under Review in *[Information-Fusion](https://www.sciencedirect.com/journal/info
 
 
 
-<div class='paper-box paper-box-last'><div class='paper-box-image'><div><div class="badge-under-review">Under Review</div><img src='../../images/TransMoE.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='TIM-TransMoE'></span>
-
-**Enhancing GNSS Positioning in Urban Environments: A Transformer-Based NLOS Detection and Adaptive Weighting Approach**<br>
-Weiwei Zhai, ***<font color=DarkRed>Yongchuan Cui</font>***, Liang Wang<sup>†</sup>, Ningbo Wang, Zishen Li, Peng Liu, Hang Zhong<br>
-Under Review in *[IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19) (IF 5.6)*<br>
-📌 Signal Classification 📌 Mixture-of-experts 📌 Transformer <br>
-
-</div>
-</div>
 
 
 <div>
