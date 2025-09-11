@@ -47,7 +47,7 @@ Thanks for attention.
 <p>
   <center>
     <font>
-        <br>&copy; Yongchuan Cui | Last updated: 06/2025
+        <br>&copy; Yongchuan Cui | Last updated: 09/2025
     </font>
   </center>
 </p>

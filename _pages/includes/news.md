@@ -1,6 +1,8 @@
 # 🔥 News
 
-**2025.06**: 🎉🎉 One paper has been accepted to International Conference on Computer Vision (ICCV), 2025.
+**2025.09**: 🎉🎉 One paper has been accepted to *Information Fusion*, 2026.
+
+**2025.06**: 🎉🎉 One paper has been accepted to *International Conference on Computer Vision (ICCV)*, 2025.
 
 **2025.05**: 🎉🎉 Receiving the Outstanding Graduate Student Scholarship (13 Recipients in Total), Spring, 2025. [link](https://aircas.ac.cn/kjrh/rhtzgg/202505/t20250514_7654034.html)
 
