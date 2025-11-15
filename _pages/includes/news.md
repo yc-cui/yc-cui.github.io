@@ -2,6 +2,8 @@
 
 **2025.11**: 🎉🎉 One paper has been accepted to *IEEE TGRS*, 2025.
 
+**2025.11**: 🏆🏆 Obtain China National Scholarship, 2025 (**Top 0.2%**) (国家奖学金). 
+
 **2025.09**: 🎉🎉 One paper has been accepted to *Information Fusion*, 2026.
 
 **2025.06**: 🎉🎉 One paper has been accepted to *International Conference on Computer Vision (ICCV)*, 2025.
@@ -14,7 +16,7 @@
 **2024.11**: 🎉🎉 One [paper](https://yc-cui.github.io/#ISPRS-PreMix) has been accepted by *ISPRS Journal of Photogrammetry and Remote Sensing*.
 
 
-**2024.11**: 🏆🏆 Obtain China National Scholarship (**Top 0.2%**) (国家奖学金). [link](https://aircas.ac.cn/kjrh/rhtzgg/202411/t20241121_7444148.html)
+**2024.11**: 🏆🏆 Obtain China National Scholarship, 2024 (**Top 0.2%**) (国家奖学金). 
 
 
 **2024.10**: 📖📖 Attending the award ceremony at the 8th Space Information Networks Symposium held in Hangzhou, Zhejiang.
