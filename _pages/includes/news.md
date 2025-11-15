@@ -1,5 +1,7 @@
 # 🔥 News
 
+**2025.11**: 🎉🎉 One paper has been accepted to *IEEE TGRS*, 2025.
+
 **2025.09**: 🎉🎉 One paper has been accepted to *Information Fusion*, 2026.
 
 **2025.06**: 🎉🎉 One paper has been accepted to *International Conference on Computer Vision (ICCV)*, 2025.
