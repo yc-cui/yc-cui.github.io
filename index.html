@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yongchuan Cui - Academic Homepage</title>
+  <meta name="description" content="Yongchuan Cui's academic homepage - Remote Sensing, Computer Vision, AI4EO, Foundation Models">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="lang-en">
+
+<nav>
+  <div class="nav-inner">
+    <a href="#" class="nav-name">
+      <span lang="en">Yongchuan Cui</span>
+      <span lang="zh">崔永川</span>
+    </a>
+    <div class="nav-right">
+      <div class="nav-links">
+        <a href="#about"><span lang="en">About</span><span lang="zh">关于</span></a>
+        <a href="#news"><span lang="en">News</span><span lang="zh">动态</span></a>
+        <a href="#publications"><span lang="en">Pubs</span><span lang="zh">论文</span></a>
+        <a href="#projects"><span lang="en">Projects</span><span lang="zh">项目</span></a>
+        <a href="#awards"><span lang="en">Awards</span><span lang="zh">荣誉</span></a>
+        <a href="#contact"><span lang="en">Contact</span><span lang="zh">联系</span></a>
+      </div>
+      <button class="nav-btn" onclick="toggleLang()" id="langBtn">中文</button>
+      <button class="nav-btn" onclick="toggleTheme()" id="themeBtn">&#9789;</button>
+      <button class="hamburger" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Menu">&#9776;</button>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+
+  <header>
+    <img src="profile.jpg" alt="Yongchuan Cui" class="profile-photo">
+    <div class="header-info">
+      <h1>
+        <span lang="en">Yongchuan Cui</span>
+        <span lang="zh">崔永川</span>
+      </h1>
+      <p class="subtitle">
+        <span lang="en">Remote Sensing &middot; Computer Vision &middot; AI4EO &middot; Foundation Models</span>
+        <span lang="zh">遥感 &middot; 计算机视觉 &middot; AI4EO &middot; 基础模型</span>
+      </p>
+      <div class="links">
+        <a href="mailto:yongchuancui@gmail.com">Email</a>
+        <a href="https://github.com/yc-cui" target="_blank">GitHub</a>
+        <a href="https://scholar.google.com/citations?hl=en&user=dRK8mV0AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar</a>
+        <a href="https://orcid.org/0009-0002-5179-6232" target="_blank">ORCID</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- About Me -->
+  <section id="about" class="about">
+    <h2>
+      <span lang="en">About Me</span>
+      <span lang="zh">关于我</span>
+    </h2>
+    <p lang="en">
+      Hi there, I am Yongchuan Cui! Currently, I am pursuing a master's degree at University of Chinese Academy of Sciences and Aerospace Information Research Institute, Chinese Academy of Sciences. Prior to this, I earned my bachelor's degree from School of Computer Science, China University of Geosciences, where I laid the foundation for my academic journey. I am now heading to the University of Hong Kong to pursue a PhD degree.
+    </p>
+    <p lang="en">
+      My research interests span across computer vision, remote sensing image processing, AI4EO, etc. I am passionate about exploring innovative solutions to complex problems and collaborating with like-minded researchers. Feel free to reach out!
+    </p>
+    <p lang="zh">
+      你好，我是崔永川！目前，我在中国科学院大学与中国科学院空天信息创新研究院攻读硕士学位。在此之前，我在中国地质大学（武汉）计算机学院取得了学士学位。我即将前往香港大学攻读博士学位。
+    </p>
+    <p lang="zh">
+      我的研究兴趣涵盖计算机视觉、遥感图像处理、AI4EO等领域。我热衷于探索复杂问题的创新解决方案，并与志同道合的研究者合作。欢迎联系我！
+    </p>
+  </section>
+
+  <!-- News -->
+  <section id="news">
+    <h2>
+      <span lang="en">News</span>
+      <span lang="zh">新闻动态</span>
+    </h2>
+    <div class="scrollable">
+    <ul class="news-list">
+      <li><span class="date">2025.11</span><span lang="en">One paper accepted to <em>IEEE TGRS</em>, 2025.</span><span lang="zh">一篇论文被 <em>IEEE TGRS</em> 接收，2025。</span></li>
+      <li><span class="date">2025.11</span><span lang="en">Obtained China National Scholarship, 2025 (<strong>Top 0.2%</strong>).</span><span lang="zh">获得2025年国家奖学金（<strong>Top 0.2%</strong>）。</span></li>
+      <li><span class="date">2025.09</span><span lang="en">One paper accepted to <em>Information Fusion</em>, 2026.</span><span lang="zh">一篇论文被 <em>Information Fusion</em> 接收，2026。</span></li>
+      <li><span class="date">2025.06</span><span lang="en">One paper accepted to <em>ICCV 2025</em>.</span><span lang="zh">一篇论文被 <em>ICCV 2025</em> 接收。</span></li>
+      <li><span class="date">2025.05</span><span lang="en">Received Outstanding Graduate Student Scholarship (13 recipients), Spring 2025.</span><span lang="zh">获得2025年春季优秀研究生奖学金（共13人）。</span></li>
+      <li><span class="date">2025.03</span><span lang="en">Two papers accepted by <em>IEEE IGARSS 2025</em>.</span><span lang="zh">两篇论文被 <em>IEEE IGARSS 2025</em> 接收。</span></li>
+      <li><span class="date">2025.01</span><span lang="en">One paper accepted by <em>IEEE IoTJ</em>.</span><span lang="zh">一篇论文被 <em>IEEE IoTJ</em> 接收。</span></li>
+      <li><span class="date">2024.11</span><span lang="en">One paper accepted by <em>ISPRS J P&amp;RS</em>.</span><span lang="zh">一篇论文被 <em>ISPRS J P&amp;RS</em> 接收。</span></li>
+      <li><span class="date">2024.11</span><span lang="en">Obtained China National Scholarship, 2024 (<strong>Top 0.2%</strong>).</span><span lang="zh">获得2024年国家奖学金（<strong>Top 0.2%</strong>）。</span></li>
+      <li><span class="date">2024.10</span><span lang="en">Third Prize, Rank <strong>5/229</strong>, NSFC Remote Sensing Image Intelligent Processing Algorithm Contest, Cloud Removal Track.</span><span lang="zh">第三名，排名 <strong>5/229</strong>，国自然遥感图像智能处理算法竞赛，去云赛道。</span></li>
+      <li><span class="date">2024.09</span><span lang="en">One paper accepted by <em>IEEE J-STARS</em>.</span><span lang="zh">一篇论文被 <em>IEEE J-STARS</em> 接收。</span></li>
+      <li><span class="date">2024.08</span><span lang="en">One paper accepted by <em>IEEE TGRS</em>.</span><span lang="zh">一篇论文被 <em>IEEE TGRS</em> 接收。</span></li>
+      <li><span class="date">2024.06</span><span lang="en">Obtained Merit Student of UCAS.</span><span lang="zh">获得中国科学院大学三好学生。</span></li>
+      <li><span class="date">2023.09</span><span lang="en">One paper accepted by <em>IEEE GRSL</em>.</span><span lang="zh">一篇论文被 <em>IEEE GRSL</em> 接收。</span></li>
+    </ul>
+    </div>
+  </section>
+
+  <!-- Education -->
+  <section id="education">
+    <h2>
+      <span lang="en">Education</span>
+      <span lang="zh">教育经历</span>
+    </h2>
+    <div class="edu-item">
+      <span class="period">2023.09 &ndash; Present</span>
+      <h3 lang="en">M.S., University of Chinese Academy of Sciences &amp; AIRCAS</h3>
+      <h3 lang="zh">硕士，中国科学院大学 &amp; 空天信息创新研究院</h3>
+      <p lang="en">Major: Signal and Information Processing</p>
+      <p lang="zh">专业：信号与信息处理</p>
+    </div>
+    <div class="edu-item">
+      <span class="period">2019.09 &ndash; 2023.06</span>
+      <h3 lang="en">B.E., China University of Geosciences (Wuhan)</h3>
+      <h3 lang="zh">学士，中国地质大学（武汉）</h3>
+      <p lang="en">Major: Data Science and Big Data Technology</p>
+      <p lang="zh">专业：数据科学与大数据技术</p>
+    </div>
+  </section>
+
+  <!-- Publications -->
+  <section id="publications">
+    <h2>
+      <span lang="en">Publications</span>
+      <span lang="zh">发表论文</span>
+    </h2>
+    <p class="pub-note">
+      <span lang="en">*Equal contribution. &dagger;Corresponding author.</span>
+      <span lang="zh">*共同一作，&dagger;通讯作者。</span>
+    </p>
+    <div class="scrollable">
+    <ul class="pub-list">
+      <li>
+        <span class="title">Overcoming the Identity Mapping Problem in Self-Supervised Hyperspectral Anomaly Detection</span>
+        <span class="authors"><strong>Yongchuan Cui</strong>, Jinhe Zhang, Zedong Yan, Peng Liu&dagger;, Weijing Song, Yi Zeng</span><br>
+        <span class="venue">IEEE Transactions on Geoscience and Remote Sensing, 2025</span>
+        <div class="pub-links">
+          <a href="https://arxiv.org/abs/2504.04115" target="_blank">arXiv</a>
+          <a href="https://github.com/yc-cui/Super-AD" target="_blank">Code</a>
+        </div>
+      </li>
+      <li>
+        <span class="title">Enpowering Your Pansharpening Models with Generalizability: Unified Distribution is All You Need</span>
+        <span class="authors"><strong>Yongchuan Cui</strong>, Peng Liu&dagger;, Hui Zhang</span><br>
+        <span class="venue">International Conference on Computer Vision (ICCV), 2025</span>
+        <div class="pub-links">
+          <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Cui_Enpowering_Your_Pansharpening_Models_with_Generalizability_Unified_Distribution_is_All_ICCV_2025_paper.pdf" target="_blank">Paper</a>
+          <a href="https://arxiv.org/abs/2510.22217" target="_blank">arXiv</a>
+          <a href="https://github.com/yc-cui/UniPAN" target="_blank">Code</a>
+        </div>
+      </li>
+      <li>
+        <span class="title">Pansharpening via Predictive Filtering with Element-wise Feature Mixing</span>
+        <span class="authors"><strong>Yongchuan Cui</strong>, Peng Liu&dagger;, Yan Ma, Lajiao Chen, Mengzhen Xu, Xingyan Guo</span><br>
+        <span class="venue">ISPRS Journal of Photogrammetry and Remote Sensing, 2025</span>
+        <div class="pub-links">
+          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271624004064" target="_blank">Paper</a>
+          <a href="javascript:void(0)" onclick="copyBib('https://yc-cui.github.io/files/ISPRS-PreMix.bib',this)">BibTeX</a>
+          <a href="https://github.com/yc-cui/PreMix" target="_blank">Code</a>
+        </div>
+      </li>
+      <li>
+        <span class="title">Rethinking Identity Mapping in Self-Supervised Hyperspectral Anomaly Detection: A Unified Perspective on Network Optimization</span>
+        <span class="authors"><strong>Yongchuan Cui</strong>, Jinhe Zhang, Peng Liu&dagger;, Yan Ma, Yi Zeng</span><br>
+        <span class="venue">IEEE IGARSS, 2025</span>
+        <div class="pub-links">
+          <a href="https://github.com/yc-cui/Super-AD" target="_blank">Code</a>
+        </div>
+      </li>
+      <li>
+        <span class="title">Pixel-wise Ensembled Masked Autoencoder for Multispectral Pansharpening</span>
+        <span class="authors"><strong>Yongchuan Cui</strong>, Peng Liu&dagger;, Yan Ma, Lajiao Chen, Mengzhen Xu, Xingyan Guo</span><br>
+        <span class="venue">IEEE Transactions on Geoscience and Remote Sensing, 2024</span>
+        <div class="pub-links">
+          <a href="https://ieeexplore.ieee.org/document/10649657" target="_blank">Paper</a>
+          <a href="javascript:void(0)" onclick="copyBib('https://yc-cui.github.io/files/IEEE-TGRS-PEMAE.bib',this)">BibTeX</a>
+          <a href="https://github.com/yc-cui/PEMAE" target="_blank">Code</a>
+        </div>
+      </li>
+      <li>
+        <span class="title">Reconstruction of Large-Scale Missing Data in Remote Sensing Images Using Extend-GAN</span>
+        <span class="authors"><strong>Yongchuan Cui</strong>, Peng Liu&dagger;, Bingze Song, Lingjun Zhao, Yan Ma, Lajiao Chen</span><br>
+        <span class="venue">IEEE Geoscience and Remote Sensing Letters, 2024</span>
+        <div class="pub-links">
+          <a href="https://ieeexplore.ieee.org/document/10413911" target="_blank">Paper</a>
+          <a href="javascript:void(0)" onclick="copyBib('https://yc-cui.github.io/files/IEEE-GRSL-Extend-GAN.bib',this)">BibTeX</a>
+          <a href="https://github.com/yc-cui/Extend-GAN" target="_blank">Code</a>
+        </div>
+      </li>
+      <li>
+        <span class="title">A Decade of Deep Learning for Remote Sensing Spatiotemporal Fusion: Advances, Challenges, and Opportunities</span>
+        <span class="authors">Enzhe Sun*, <strong>Yongchuan Cui</strong>*, Peng Liu&dagger;, Jining Yan&dagger;</span><br>
+        <span class="venue">Information Fusion, 2026</span>
+        <div class="pub-links">
+          <a href="https://github.com/yc-cui/Deep-Learning-Spatiotemporal-Fusion-Survey" target="_blank">Repo</a>
+          <a href="https://www.sciencedirect.com/science/article/pii/S156625352500747X" target="_blank">Paper</a>
+          <a href="javascript:void(0)" onclick="copyBib('https://yc-cui.github.io/files/INFFUS-STF-Review.bib',this)">BibTeX</a>
+        </div>
+      </li>
+      <li>
+        <span class="title">Enhancing GNSS Positioning in Urban Environments: A Transformer-Based NLOS Detection and Adaptive Weighting Approach</span>
+        <span class="authors">Weiwei Zhai, <strong>Yongchuan Cui</strong>, Liang Wang&dagger;, Ningbo Wang, Zishen Li, Peng Liu, Hang Zhong</span><br>
+        <span class="venue">IEEE Internet of Things Journal, 2025</span>
+        <div class="pub-links">
+          <a href="https://ieeexplore.ieee.org/abstract/document/11121908" target="_blank">Paper</a>
+        </div>
+      </li>
+      <li>
+        <span class="title">Semiblind Compressed Sensing: A Bidirectional-Driven Method for Spatiotemporal Fusion of Remote Sensing Images</span>
+        <span class="authors">Peng Liu, Lizhe Wang&dagger;, Jia Chen, <strong>Yongchuan Cui</strong></span><br>
+        <span class="venue">IEEE J-STARS, 2024</span>
+        <div class="pub-links">
+          <a href="https://ieeexplore.ieee.org/abstract/document/10696963" target="_blank">Paper</a>
+          <a href="javascript:void(0)" onclick="copyBib('https://yc-cui.github.io/files/IEEE-JSTARS-SDCS.bib',this)">BibTeX</a>
+          <a href="https://github.com/yc-cui/SDCS/" target="_blank">Code</a>
+        </div>
+      </li>
+      <li>
+        <span class="title">Prior-based Three-stage Unsupervised Invertible Neural Network for Hyperspectral and Multispectral Image Fusion</span>
+        <span class="authors">Mengnan Jin, Wenjuan Zhang&dagger;, <strong>Yongchuan Cui</strong>, Jie Pan, Dailiang Peng</span><br>
+        <span class="venue">IEEE IGARSS, 2025</span>
+      </li>
+    </ul>
+    </div>
+  </section>
+
+  <!-- Projects -->
+  <section id="projects">
+    <h2>
+      <span lang="en">Projects</span>
+      <span lang="zh">项目经历</span>
+    </h2>
+    <div class="project-item">
+      <span class="period">2023.03 &ndash; 2023.06</span>
+      <h3 lang="en">Multi-source Remote Sensing Interactive Intelligent Annotation System</h3>
+      <h3 lang="zh">多源遥感交互式智能标注系统</h3>
+      <p lang="en">Developed an interactive intelligent annotation system for remote sensing images based on CVAT. Focused on frontend interactive point-based annotation and backend deep learning segmentation models. Supported by NSFC.</p>
+      <p lang="zh">基于CVAT开发了面向遥感图像的交互式智能标注系统。负责前端交互式点标注和后端深度学习分割模型部署。受国家自然科学基金支持。</p>
+      <p class="tech">React, PostgreSQL, Redis, MapServer, Django, OpenLayers, GDAL</p>
+    </div>
+    <div class="project-item">
+      <span class="period">2022.10 &ndash; 2023.02</span>
+      <h3 lang="en">Distributed Remote Sensing LULC Classification System</h3>
+      <h3 lang="zh">分布式遥感土地利用/覆盖分类系统</h3>
+      <p lang="en">Designed a distributed LULC classification system with data storage, query indexing, classification algorithms, and UI. Used GDAL, MinIO, MapServer, and FastAPI.</p>
+      <p lang="zh">设计了分布式土地利用/覆盖分类系统，涵盖数据存储、查询索引、分类算法和界面。使用GDAL、MinIO、MapServer和FastAPI。</p>
+      <p class="tech">GDAL, MinIO, MapServer, OpenLayers, FastAPI, Vite+React+Ant</p>
+    </div>
+    <div class="project-item">
+      <span class="period">2022.06 &ndash; 2022.08</span>
+      <h3 lang="en">Jetson Xavier NX: Edge AI Development</h3>
+      <h3 lang="zh">Jetson Xavier NX：边缘AI开发</h3>
+      <p lang="en">Deployed deep learning models on Nvidia Jetson Xavier NX. YOLOv5 with TensorRT FP32 boosted FPS from 17.67 to 40.34 with minimal accuracy loss.</p>
+      <p lang="zh">在Nvidia Jetson Xavier NX上部署深度学习模型。使用TensorRT FP32加速YOLOv5，FPS从17.67提升至40.34，精度几乎无损。</p>
+      <p class="tech">Nvidia Jetson Xavier NX, PyTorch, OpenCV, TensorRT, Docker, YOLOv5</p>
+    </div>
+  </section>
+
+  <!-- Awards -->
+  <section id="awards">
+    <h2>
+      <span lang="en">Honors &amp; Awards</span>
+      <span lang="zh">荣誉奖项</span>
+    </h2>
+    <ul class="awards-list">
+      <li><span class="year">2025</span><span lang="en"><strong>China National Scholarship</strong></span><span lang="zh"><strong>国家奖学金</strong></span></li>
+      <li><span class="year">2025</span><span lang="en">Outstanding Graduate Student Scholarship (13 recipients)</span><span lang="zh">优秀研究生奖学金（共13人）</span></li>
+      <li><span class="year">2024</span><span lang="en"><strong>China National Scholarship</strong></span><span lang="zh"><strong>国家奖学金</strong></span></li>
+      <li><span class="year">2024</span><span lang="en">Third Prize, Rank 5/229, NSFC Remote Sensing Contest</span><span lang="zh">第三名，排名5/229，国自然遥感智能处理竞赛</span></li>
+      <li><span class="year">2024</span><span lang="en">Merit Student, UCAS</span><span lang="zh">中国科学院大学三好学生</span></li>
+      <li><span class="year">2023</span><span lang="en">Outstanding Graduate, CUG</span><span lang="zh">中国地质大学优秀毕业生</span></li>
+      <li><span class="year">2022</span><span lang="en">National Third Prize, "Challenge Cup"</span><span lang="zh">全国三等奖，"挑战杯"竞赛</span></li>
+      <li><span class="year">2021</span><span lang="en">Specially Invited Student Guest, Huawei CONNECT</span><span lang="zh">华为全联接大会特邀学生嘉宾</span></li>
+      <li><span class="year">2021</span><span lang="en">Third Prize, Huawei ICT Competition</span><span lang="zh">全国三等奖，华为ICT大赛</span></li>
+      <li><span class="year">2021</span><span lang="en">Huawei Research &amp; Innovation Scholarship</span><span lang="zh">华为科研创新奖学金</span></li>
+    </ul>
+  </section>
+
+  <!-- Services -->
+  <section class="services">
+    <h2>
+      <span lang="en">Academic Services</span>
+      <span lang="zh">学术服务</span>
+    </h2>
+    <h3 lang="en">Journal Reviewer</h3>
+    <h3 lang="zh">期刊审稿人</h3>
+    <ul>
+      <li>IEEE TGRS</li>
+      <li>ISPRS J P&amp;RS</li>
+      <li>Signal, Image and Video Processing</li>
+      <li>Cognitive Computation</li>
+      <li>NPJ Heritage Science</li>
+      <li>Multimedia Systems</li>
+    </ul>
+    <h3 lang="en">Conference Reviewer</h3>
+    <h3 lang="zh">会议审稿人</h3>
+    <ul>
+      <li>AAAI</li>
+    </ul>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact" class="contact">
+    <h2>
+      <span lang="en">Contact</span>
+      <span lang="zh">联系方式</span>
+    </h2>
+    <p><a href="mailto:cuiyongchuan23@mails.ucas.ac.cn">cuiyongchuan23@mails.ucas.ac.cn</a></p>
+    <p><a href="mailto:yongchuancui@gmail.com">yongchuancui@gmail.com</a> <span lang="en">(preferred)</span><span lang="zh">（首选）</span></p>
+  </section>
+
+  <!-- Visitor Map -->
+  <div class="visitor-map">
+    <div style="width: 320px; margin: 0 auto;">
+      <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=rG38oPH9Ncj0sE5pJKEaNZbRZ115D1z53YHnDyFqTMU"></script>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Yongchuan Cui
+  </footer>
+
+</div>
+
+<div id="toast" class="toast"></div>
+
+<script>
+function copyBib(url, el) {
+  fetch(url)
+    .then(function(r) { return r.text(); })
+    .then(function(text) {
+      navigator.clipboard.writeText(text).then(function() {
+        showToast('BibTeX copied!');
+      });
+    })
+    .catch(function() {
+      showToast('Copy failed, please try again');
+    });
+}
+
+function showToast(msg) {
+  var t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(function() { t.classList.remove('show'); }, 2000);
+}
+
+function toggleLang() {
+  const body = document.body;
+  const btn = document.getElementById('langBtn');
+  if (body.classList.contains('lang-en')) {
+    body.classList.replace('lang-en', 'lang-zh');
+    btn.textContent = 'EN';
+  } else {
+    body.classList.replace('lang-zh', 'lang-en');
+    btn.textContent = '中文';
+  }
+}
+
+function toggleTheme() {
+  const html = document.documentElement;
+  const btn = document.getElementById('themeBtn');
+  if (html.getAttribute('data-theme') === 'dark') {
+    html.removeAttribute('data-theme');
+    btn.innerHTML = '&#9789;';
+    localStorage.setItem('theme', 'light');
+  } else {
+    html.setAttribute('data-theme', 'dark');
+    btn.innerHTML = '&#9788;';
+    localStorage.setItem('theme', 'dark');
+  }
+}
+
+(function() {
+  const saved = localStorage.getItem('theme');
+  if (saved === 'dark') {
+    document.documentElement.setAttribute('data-theme', 'dark');
+    document.getElementById('themeBtn').innerHTML = '&#9788;';
+  }
+
+  var menu = document.querySelector('.nav-links');
+  document.addEventListener('click', function(e) {
+    if (menu.classList.contains('open') && !e.target.closest('.nav-right')) {
+      menu.classList.remove('open');
+    }
+  });
+
+  menu.querySelectorAll('a').forEach(function(a) {
+    a.addEventListener('click', function() { menu.classList.remove('open'); });
+  });
+})();
+</script>
+
+</body>
+</html>
