@@ -216,6 +216,17 @@ section h2 {
 
 .about p + p { margin-top: 0.5rem; }
 
+.about .about-advisor {
+  color: var(--accent);
+}
+
+.about .about-advisor a {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 /* News */
 .scrollable {
   max-height: 400px;
