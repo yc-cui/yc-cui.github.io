@@ -116,16 +116,16 @@ summary:focus-visible {
 
 .profile {
   display: grid;
-  grid-template-columns: 180px minmax(0, 1fr);
+  grid-template-columns: 125px minmax(0, 1fr);
   align-items: center;
-  gap: 38px;
+  gap: 32px;
   padding: 10px 2.5% 6px;
 }
 
 .portrait {
   display: block;
-  width: 180px;
-  height: 180px;
+  width: 125px;
+  height: auto;
 }
 
 .profile-copy h1 {
@@ -476,14 +476,13 @@ body.lang-zh strong[lang="zh"] {
   }
 
   .profile {
-    grid-template-columns: 160px minmax(0, 1fr);
-    gap: 32px;
+    grid-template-columns: 112px minmax(0, 1fr);
+    gap: 28px;
     padding-inline: 0;
   }
 
   .portrait {
-    width: 160px;
-    height: 160px;
+    width: 112px;
   }
 
   .publication {
@@ -499,13 +498,12 @@ body.lang-zh strong[lang="zh"] {
   }
 
   .profile {
-    grid-template-columns: 138px minmax(0, 1fr);
-    gap: 24px;
+    grid-template-columns: 96px minmax(0, 1fr);
+    gap: 22px;
   }
 
   .portrait {
-    width: 138px;
-    height: 138px;
+    width: 96px;
   }
 
   .profile-copy h1 {
@@ -521,14 +519,13 @@ body.lang-zh strong[lang="zh"] {
 
 @media (max-width: 560px) {
   .profile {
-    grid-template-columns: 112px minmax(0, 1fr);
+    grid-template-columns: 82px minmax(0, 1fr);
     align-items: start;
-    gap: 18px;
+    gap: 14px;
   }
 
   .portrait {
-    width: 112px;
-    height: 112px;
+    width: 82px;
   }
 
   .profile-copy h1 {
@@ -565,8 +562,7 @@ body.lang-zh strong[lang="zh"] {
   }
 
   .portrait {
-    width: 116px;
-    height: 116px;
+    width: 82px;
   }
 
   .profile-copy h1 {
