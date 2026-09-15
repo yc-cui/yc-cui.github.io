@@ -126,7 +126,6 @@ summary:focus-visible {
   display: block;
   width: 180px;
   height: 180px;
-  object-fit: cover;
 }
 
 .profile-copy h1 {
